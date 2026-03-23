@@ -1,0 +1,125 @@
+Zimmer, Fiona | Homework 1 | not submitted | * | *
+Zimmer, Fiona | Homework 2 | submitted | on time | A
+Zimmer, Fiona | Project 1 | submitted | late | B
+Zimmer, Fiona | Quiz 1 | submitted | on time | A
+Zimmer, Fiona | Final Project | submitted | on time | A
+Quaid, Lilliana | Homework 1 | submitted | on time | C
+Quaid, Lilliana | Homework 2 | submitted | on time | A
+Quaid, Lilliana | Project 1 | submitted | on time | A
+Quaid, Lilliana | Quiz 1 | submitted | late | D
+Quaid, Lilliana | Final Project | submitted | on time | D
+Hayes, Milo | Homework 1 | submitted | on time | A
+Hayes, Milo | Homework 2 | submitted | late | A
+Hayes, Milo | Project 1 | not submitted | * | *
+Hayes, Milo | Quiz 1 | submitted | on time | C
+Hayes, Milo | Final Project | submitted | on time | A
+Turner, Miles | Homework 1 | submitted | on time | B
+Turner, Miles | Homework 2 | submitted | on time | C
+Turner, Miles | Project 1 | submitted | on time | A
+Turner, Miles | Quiz 1 | submitted | late | C
+Turner, Miles | Final Project | submitted | late | B
+King, Sariah | Homework 1 | submitted | on time | D
+King, Sariah | Homework 2 | submitted | late | C
+King, Sariah | Project 1 | submitted | on time | D
+King, Sariah | Quiz 1 | submitted | on time | B
+King, Sariah | Final Project | submitted | on time | D
+Dillon, Skylar | Homework 1 | not submitted | * | *
+Dillon, Skylar | Homework 2 | submitted | on time | D
+Dillon, Skylar | Project 1 | submitted | late | A
+Dillon, Skylar | Quiz 1 | submitted | on time | B
+Dillon, Skylar | Final Project | submitted | late | D
+Carson, Amelia | Homework 1 | submitted | late | A
+Carson, Amelia | Homework 2 | submitted | on time | D
+Carson, Amelia | Project 1 | submitted | late | C
+Carson, Amelia | Quiz 1 | submitted | on time | D
+Carson, Amelia | Final Project | submitted | on time | C
+Elliott, Bria | Homework 1 | submitted | on time | D
+Elliott, Bria | Homework 2 | submitted | late | B
+Elliott, Bria | Project 1 | submitted | late | B
+Elliott, Bria | Quiz 1 | submitted | on time | C
+Elliott, Bria | Final Project | not submitted | * | *
+Upton, Sawyer | Homework 1 | submitted | on time | A
+Upton, Sawyer | Homework 2 | submitted | late | C
+Upton, Sawyer | Project 1 | submitted | on time | A
+Upton, Sawyer | Quiz 1 | not submitted | * | *
+Upton, Sawyer | Final Project | submitted | on time | B
+Gibson, Alana | Homework 1 | not submitted | * | *
+Gibson, Alana | Homework 2 | submitted | late | B
+Gibson, Alana | Project 1 | submitted | late | A
+Gibson, Alana | Quiz 1 | not submitted | * | *
+Gibson, Alana | Final Project | submitted | on time | D
+Zimmerman, Mia | Homework 1 | submitted | late | B
+Zimmerman, Mia | Homework 2 | submitted | on time | C
+Zimmerman, Mia | Project 1 | submitted | late | A
+Zimmerman, Mia | Quiz 1 | submitted | late | C
+Zimmerman, Mia | Final Project | submitted | late | A
+Matthews, Aria | Homework 1 | submitted | on time | D
+Matthews, Aria | Homework 2 | submitted | late | B
+Matthews, Aria | Project 1 | submitted | late | B
+Matthews, Aria | Quiz 1 | submitted | late | B
+Matthews, Aria | Final Project | submitted | late | A
+Nelson, Carter | Homework 1 | submitted | on time | A
+Nelson, Carter | Homework 2 | not submitted | * | *
+Nelson, Carter | Project 1 | submitted | on time | A
+Nelson, Carter | Quiz 1 | submitted | on time | A
+Nelson, Carter | Final Project | submitted | late | B
+Iverson, Paige | Homework 1 | not submitted | * | *
+Iverson, Paige | Homework 2 | not submitted | * | *
+Iverson, Paige | Project 1 | submitted | on time | D
+Iverson, Paige | Quiz 1 | submitted | late | B
+Iverson, Paige | Final Project | submitted | late | A
+Reeves, Nolan | Homework 1 | submitted | on time | C
+Reeves, Nolan | Homework 2 | submitted | on time | C
+Reeves, Nolan | Project 1 | submitted | late | C
+Reeves, Nolan | Quiz 1 | submitted | late | B
+Reeves, Nolan | Final Project | not submitted | * | *
+York, Selene | Homework 1 | submitted | late | D
+York, Selene | Homework 2 | submitted | late | D
+York, Selene | Project 1 | submitted | late | B
+York, Selene | Quiz 1 | submitted | late | B
+York, Selene | Final Project | submitted | late | A
+Ashford, Peyton | Homework 1 | submitted | late | A
+Ashford, Peyton | Homework 2 | not submitted | * | *
+Ashford, Peyton | Project 1 | submitted | late | D
+Ashford, Peyton | Quiz 1 | submitted | late | C
+Ashford, Peyton | Final Project | submitted | late | C
+Foster, Shane | Homework 1 | submitted | late | C
+Foster, Shane | Homework 2 | submitted | on time | A
+Foster, Shane | Project 1 | submitted | late | C
+Foster, Shane | Quiz 1 | submitted | late | C
+Foster, Shane | Final Project | submitted | late | A
+Vasquez, Adrian | Homework 1 | submitted | late | C
+Vasquez, Adrian | Homework 2 | not submitted | * | *
+Vasquez, Adrian | Project 1 | submitted | on time | B
+Vasquez, Adrian | Quiz 1 | submitted | on time | A
+Vasquez, Adrian | Final Project | submitted | late | C
+Harris, Devin | Homework 1 | not submitted | * | *
+Harris, Devin | Homework 2 | submitted | on time | B
+Harris, Devin | Project 1 | not submitted | * | *
+Harris, Devin | Quiz 1 | not submitted | * | *
+Harris, Devin | Final Project | submitted | on time | D
+Walker, Naomi | Homework 1 | submitted | on time | C
+Walker, Naomi | Homework 2 | submitted | on time | C
+Walker, Naomi | Project 1 | submitted | late | B
+Walker, Naomi | Quiz 1 | submitted | late | D
+Walker, Naomi | Final Project | not submitted | * | *
+Wright, Naomi | Homework 1 | submitted | on time | D
+Wright, Naomi | Homework 2 | submitted | late | A
+Wright, Naomi | Project 1 | submitted | late | D
+Wright, Naomi | Quiz 1 | submitted | late | C
+Wright, Naomi | Final Project | not submitted | * | *
+Underwood, Sienna | Homework 1 | submitted | on time | C
+Underwood, Sienna | Homework 2 | not submitted | * | *
+Underwood, Sienna | Project 1 | submitted | on time | B
+Underwood, Sienna | Quiz 1 | submitted | on time | D
+Underwood, Sienna | Final Project | submitted | late | A
+Blaine, Nadia | Homework 1 | submitted | on time | D
+Blaine, Nadia | Homework 2 | submitted | on time | D
+Blaine, Nadia | Project 1 | submitted | late | B
+Blaine, Nadia | Quiz 1 | submitted | late | D
+Blaine, Nadia | Final Project | submitted | late | D
+Nixon, Jared | Homework 1 | submitted | on time | C
+Nixon, Jared | Homework 2 | submitted | on time | B
+Nixon, Jared | Project 1 | submitted | late | C
+Nixon, Jared | Quiz 1 | submitted | on time | B
+Nixon, Jared | Final Project | not submitted | * | *

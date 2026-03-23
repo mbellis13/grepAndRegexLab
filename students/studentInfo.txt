@@ -1,0 +1,110 @@
+last name, first name | studentID | grade | clubs | birthdate
+Zimmer, Fiona | 1092847 | 12 | Robotics, Drama | 07/16/2009
+Quaid, Lilliana | 1950384 | 09 | Math League | 07/13/2011
+Hayes, Milo | 1938472 | 09 | Chess Club, Debate | 03/23/2012
+Turner, Miles | 1938472 | 10 | Debate | 06/17/2011
+King, Sariah | 1059483 | 10 | Art Society | 01/14/2011
+Dillon, Skylar | 1492384 | 09 | Drama, Art Society | 12/27/2011
+Carson, Amelia | 1742098 | 12 | Art Society, Drama | 04/25/2008
+Elliott, Bria | 1862043 | 12 | Environmental Club | 02/23/2009
+Upton, Sawyer | 1902834 | 09 | Math League, Chess Club | 05/22/2011
+Gibson, Alana | 1459283 | 10 | Drama | 03/10/2010
+Zimmerman, Mia | 1729483 | 12 | Math League, Robotics | 06/21/2009
+Matthews, Aria | 1839204 | 10 | Art Society | 12/22/2010
+Nelson, Carter | 1890234 | 11 | Coding Club, Robotics | 12/06/2009
+Iverson, Paige | 1773920 | 12 | Drama | 09/23/2009
+Reeves, Nolan | 1758492 | 12 | Robotics, Coding Club | 04/10/2009
+York, Selene | 1992834 | 12 | Math League, Debate | 04/02/2008
+Ashford, Peyton | 1730284 | 09 | Robotics, Chess Club | 07/05/2011
+Foster, Shane | 1292043 | 11 | Robotics | 12/05/2009
+Vasquez, Adrian | 1902847 | 12 | Chess Club, Robotics | 03/27/2009
+Harris, Devin | 1839201 | 09 | Chess Club | 03/06/2012
+Reeves, Nolan | 1758492 | 12 | Robotics, Coding Club | 12/03/2009
+Walker, Naomi | 1902837 | 09 | Coding Club, Robotics | 10/10/2011
+Wright, Naomi | 1539204 | 11 | Coding Club | 01/20/2010
+Underwood, Sienna | 1748392 | 12 | Drama, Environmental Club | 07/13/2008
+Blaine, Nadia | 1174983 | 12 | Art Society, Drama | 04/12/2009
+Nixon, Jared | 1612039 | 11 | Chess Club, Coding Club | 03/08/2009
+Gibson, Alana | 1459283 | 10 | Drama | 11/20/2010
+Mason, Eliana | 1048293 | 09 | Drama | 11/20/2011
+Underhill, Zara | 1839201 | 09 | Art Society | 07/13/2012
+Coleman, Jasper | 1830294 | 11 | Chess Club, Robotics | 12/12/2009
+King, Sariah | 1059483 | 10 | Art Society | 12/16/2011
+Radcliffe, Serena | 1602847 | 10 | Drama, Art Society | 11/07/2011
+Grant, Parker | 1158394 | 10 | Chess Club | 12/21/2011
+Ross, Elena | 1473829 | 10 | Art Society | 03/21/2011
+Xu, Amber | 1473829 | 10 | Art Society | 02/27/2011
+Owens, Harper | 1992845 | 12 | Math League, Debate | 01/25/2009
+Lewis, Brandon | 1702394 | 10 | Chess Club, Robotics | 09/24/2010
+Yeats, Mira | 1620394 | 10 | Drama, Debate | 06/16/2010
+Sanders, Ivy | 1648290 | 09 | Math League, Chess Club | 08/23/2011
+Warner, Colt | 1529483 | 11 | Robotics | 01/19/2009
+Rowe, Jasper | 1419283 | 12 | Debate, Environmental Club | 09/02/2008
+Zara, Kade | 1039482 | 11 | Robotics, Coding Club | 10/10/2009
+Thorne, Violet | 1478293 | 12 | Chess Club | 04/14/2008
+Ramsey, Willa | 1738492 | 12 | Drama | 08/27/2008
+Adams, Lily | 1038492 | 10 | Chess Club, Drama | 03/19/2011
+Jennings, Reed | 1438294 | 11 | Robotics, Math League | 11/11/2010
+Garner, Chloe | 1278450 | 12 | Drama, Art Society | 12/08/2009
+Evans, Priya | 1653902 | 10 | Debate, Environmental Club | 10/13/2011
+Benton, Cole | 1248393 | 12 | Coding Club | 08/08/2008
+Irons, Kiera | 1820394 | 09 | Math League, Coding Club | 09/16/2012
+Ulrich, Mason | 1093842 | 10 | Coding Club, Robotics | 06/26/2010
+Valencia, Nora | 1683940 | 12 | Art Society | 01/14/2008
+Ingram, Elise | 1640283 | 12 | Math League | 04/25/2008
+Young, Cedric | 1203948 | 11 | Math League, Coding Club | 07/27/2010
+Kramer, Elise | 1892034 | 09 | Chess Club, Coding Club | 04/15/2011
+Gibson, Alana | 1459283 | 10 | Drama | 06/27/2010
+Holt, Xavier | 1692034 | 10 | Robotics | 10/09/2011
+Larsen, Maddox | 1574920 | 10 | Chess Club | 04/06/2011
+Hughes, Parker | 1158394 | 10 | Chess Club | 05/10/2011
+Jameson, Troy | 1948203 | 12 | Debate | 04/04/2008
+Keller, Mia | 1329484 | 12 | Art Society, Math League | 05/13/2008
+Olsen, Piper | 1572039 | 11 | Coding Club, Art Society | 11/21/2010
+Coleman, Jasper | 1830294 | 11 | Chess Club, Robotics | 08/23/2009
+Jeffers, Orion | 1129483 | 11 | Coding Club | 03/16/2009
+Irwin, Kayla | 1509384 | 10 | Debate, Coding Club | 05/10/2011
+Dalton, Marcus | 1928475 | 09 | Math League | 05/04/2011
+Fletcher, Owen | 1293845 | 11 | Math League | 12/20/2009
+Monroe, Isla | 1784950 | 12 | Robotics, Environmental Club | 10/27/2009
+Summers, Theo | 1283920 | 11 | Math League | 09/19/2010
+Garner, Chloe | 1278450 | 12 | Drama, Art Society | 08/15/2009
+Torrence, Nolan | 1492837 | 10 | Robotics, Math League | 08/05/2010
+Jenkins, Rowan | 1129384 | 11 | Environmental Club | 12/07/2009
+O’Neill, Mira | 1750293 | 12 | Robotics, Environmental Club | 05/19/2008
+Sheldon, Luca | 1193847 | 11 | Chess Club, Coding Club | 06/17/2010
+Soto, Lacey | 1364928 | 11 | Drama, Coding Club | 03/21/2009
+Barker, Simon | 1182043 | 11 | Robotics, Coding Club | 02/02/2009
+Woods, Everett | 1784029 | 09 | Environmental Club | 12/21/2012
+Zeller, Jonah | 1938402 | 12 | Coding Club, Math League | 05/20/2009
+Finch, Rowan | 1759384 | 12 | Environmental Club, Math League | 01/05/2008
+Dalton, Marcus | 1928475 | 09 | Math League | 01/24/2012
+Reeves, Nolan | 1758492 | 12 | Robotics, Coding Club | 12/01/2009
+Summers, Theo | 1283920 | 11 | Math League | 11/10/2010
+Hayes, Milo | 1938472 | 09 | Chess Club, Debate | 06/10/2012
+York, Selene | 1992834 | 12 | Math League, Debate | 07/19/2009
+Aldridge, Kayden | 1123948 | 10 | Debate, Math League | 02/01/2011
+Michaels, Raelynn | 1784932 | 11 | Robotics, Math League | 03/21/2010
+Valencia, Nora | 1683940 | 12 | Art Society | 08/25/2009
+Lopez, Devin | 1304958 | 09 | Environmental Club, Debate | 09/23/2012
+Turner, Miles | 1938472 | 10 | Debate | 07/21/2010
+Briggs, Talia | 1748293 | 12 | Art Society | 12/28/2009
+Nash, Dalton | 1428394 | 09 | Debate, Math League | 09/14/2012
+Spencer, Kayla | 1509384 | 10 | Debate, Coding Club | 11/04/2011
+Garner, Chloe | 1278450 | 12 | Drama, Art Society | 03/21/2009
+Underwood, Sienna | 1748392 | 12 | Drama, Environmental Club | 01/22/2008
+Landon, Bryce | 1520938 | 12 | Debate, Robotics | 07/07/2009
+Summers, Theo | 1283920 | 11 | Math League | 05/28/2010
+Yeats, Mira | 1620394 | 10 | Drama, Debate | 11/08/2011
+Quinn, Tessa | 1384920 | 11 | Art Society | 06/10/2009
+Owens, Harper | 1992845 | 12 | Math League, Debate | 06/04/2009
+King, Sariah | 1059483 | 10 | Art Society | 07/21/2011
+Reeves, Nolan | 1758492 | 12 | Robotics, Coding Club | 04/12/2009
+Jennings, Reed | 1438294 | 11 | Robotics, Math League | 02/18/2009
+Emerson, Blake | 1639204 | 10 | Coding Club | 11/13/2011
+Monroe, Isla | 1784950 | 12 | Robotics, Environmental Club | 09/11/2009
+Foster, Shane | 1292043 | 11 | Robotics | 08/07/2010
+Tanner, Ivy | 1849203 | 10 | Environmental Club | 02/07/2011
+Walker, Naomi | 1902837 | 09 | Coding Club, Robotics | 12/11/2011
+Calder, Rowan | 1982049 | 11 | Debate | 05/07/2009
+Holt, Xavier | 1692034 | 10 | Robotics | 03/18/2010

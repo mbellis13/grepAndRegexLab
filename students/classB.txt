@@ -1,0 +1,125 @@
+Mason, Eliana | Homework 1 | submitted | late | A
+Mason, Eliana | Homework 2 | submitted | late | B
+Mason, Eliana | Project 1 | submitted | on time | B
+Mason, Eliana | Quiz 1 | submitted | on time | D
+Mason, Eliana | Final Project | submitted | on time | D
+Underhill, Zara | Homework 1 | submitted | on time | C
+Underhill, Zara | Homework 2 | submitted | late | C
+Underhill, Zara | Project 1 | submitted | late | A
+Underhill, Zara | Quiz 1 | submitted | on time | B
+Underhill, Zara | Final Project | submitted | late | A
+Coleman, Jasper | Homework 1 | submitted | late | C
+Coleman, Jasper | Homework 2 | submitted | late | D
+Coleman, Jasper | Project 1 | submitted | late | B
+Coleman, Jasper | Quiz 1 | not submitted | * | *
+Coleman, Jasper | Final Project | not submitted | * | *
+Radcliffe, Serena | Homework 1 | not submitted | * | *
+Radcliffe, Serena | Homework 2 | submitted | late | B
+Radcliffe, Serena | Project 1 | submitted | late | C
+Radcliffe, Serena | Quiz 1 | submitted | late | A
+Radcliffe, Serena | Final Project | submitted | on time | B
+Grant, Parker | Homework 1 | submitted | on time | D
+Grant, Parker | Homework 2 | submitted | on time | D
+Grant, Parker | Project 1 | not submitted | * | *
+Grant, Parker | Quiz 1 | submitted | late | A
+Grant, Parker | Final Project | submitted | late | D
+Ross, Elena | Homework 1 | submitted | late | C
+Ross, Elena | Homework 2 | submitted | on time | B
+Ross, Elena | Project 1 | submitted | on time | C
+Ross, Elena | Quiz 1 | submitted | on time | C
+Ross, Elena | Final Project | not submitted | * | *
+Xu, Amber | Homework 1 | submitted | late | B
+Xu, Amber | Homework 2 | submitted | late | C
+Xu, Amber | Project 1 | submitted | late | A
+Xu, Amber | Quiz 1 | submitted | late | C
+Xu, Amber | Final Project | submitted | on time | B
+Owens, Harper | Homework 1 | submitted | on time | D
+Owens, Harper | Homework 2 | not submitted | * | *
+Owens, Harper | Project 1 | submitted | late | B
+Owens, Harper | Quiz 1 | submitted | on time | B
+Owens, Harper | Final Project | submitted | late | C
+Lewis, Brandon | Homework 1 | submitted | late | A
+Lewis, Brandon | Homework 2 | submitted | late | D
+Lewis, Brandon | Project 1 | submitted | on time | C
+Lewis, Brandon | Quiz 1 | submitted | on time | B
+Lewis, Brandon | Final Project | submitted | on time | A
+Yeats, Mira | Homework 1 | submitted | late | B
+Yeats, Mira | Homework 2 | submitted | late | D
+Yeats, Mira | Project 1 | submitted | on time | B
+Yeats, Mira | Quiz 1 | submitted | late | A
+Yeats, Mira | Final Project | submitted | on time | B
+Sanders, Ivy | Homework 1 | submitted | on time | A
+Sanders, Ivy | Homework 2 | submitted | late | C
+Sanders, Ivy | Project 1 | submitted | on time | D
+Sanders, Ivy | Quiz 1 | submitted | late | C
+Sanders, Ivy | Final Project | submitted | late | C
+Warner, Colt | Homework 1 | submitted | late | B
+Warner, Colt | Homework 2 | submitted | on time | A
+Warner, Colt | Project 1 | submitted | on time | A
+Warner, Colt | Quiz 1 | submitted | late | A
+Warner, Colt | Final Project | submitted | on time | D
+Rowe, Jasper | Homework 1 | submitted | late | A
+Rowe, Jasper | Homework 2 | submitted | late | A
+Rowe, Jasper | Project 1 | submitted | on time | D
+Rowe, Jasper | Quiz 1 | submitted | late | C
+Rowe, Jasper | Final Project | submitted | on time | B
+Zara, Kade | Homework 1 | submitted | late | B
+Zara, Kade | Homework 2 | submitted | late | C
+Zara, Kade | Project 1 | not submitted | * | *
+Zara, Kade | Quiz 1 | submitted | on time | B
+Zara, Kade | Final Project | submitted | on time | B
+Thorne, Violet | Homework 1 | not submitted | * | *
+Thorne, Violet | Homework 2 | submitted | on time | C
+Thorne, Violet | Project 1 | submitted | late | A
+Thorne, Violet | Quiz 1 | submitted | late | B
+Thorne, Violet | Final Project | submitted | on time | A
+Ramsey, Willa | Homework 1 | submitted | late | B
+Ramsey, Willa | Homework 2 | submitted | on time | D
+Ramsey, Willa | Project 1 | submitted | late | A
+Ramsey, Willa | Quiz 1 | submitted | on time | B
+Ramsey, Willa | Final Project | submitted | late | C
+Adams, Lily | Homework 1 | submitted | late | D
+Adams, Lily | Homework 2 | not submitted | * | *
+Adams, Lily | Project 1 | submitted | late | C
+Adams, Lily | Quiz 1 | submitted | on time | A
+Adams, Lily | Final Project | submitted | late | D
+Jennings, Reed | Homework 1 | submitted | on time | C
+Jennings, Reed | Homework 2 | submitted | on time | C
+Jennings, Reed | Project 1 | submitted | late | A
+Jennings, Reed | Quiz 1 | submitted | on time | C
+Jennings, Reed | Final Project | submitted | on time | C
+Garner, Chloe | Homework 1 | submitted | on time | A
+Garner, Chloe | Homework 2 | submitted | late | D
+Garner, Chloe | Project 1 | submitted | late | C
+Garner, Chloe | Quiz 1 | submitted | late | B
+Garner, Chloe | Final Project | submitted | late | B
+Evans, Priya | Homework 1 | submitted | late | B
+Evans, Priya | Homework 2 | not submitted | * | *
+Evans, Priya | Project 1 | submitted | late | D
+Evans, Priya | Quiz 1 | submitted | on time | C
+Evans, Priya | Final Project | submitted | on time | B
+Benton, Cole | Homework 1 | not submitted | * | *
+Benton, Cole | Homework 2 | submitted | late | D
+Benton, Cole | Project 1 | submitted | late | B
+Benton, Cole | Quiz 1 | not submitted | * | *
+Benton, Cole | Final Project | submitted | late | A
+Irons, Kiera | Homework 1 | submitted | on time | B
+Irons, Kiera | Homework 2 | submitted | late | A
+Irons, Kiera | Project 1 | submitted | late | A
+Irons, Kiera | Quiz 1 | not submitted | * | *
+Irons, Kiera | Final Project | not submitted | * | *
+Ulrich, Mason | Homework 1 | not submitted | * | *
+Ulrich, Mason | Homework 2 | submitted | on time | D
+Ulrich, Mason | Project 1 | submitted | on time | A
+Ulrich, Mason | Quiz 1 | submitted | on time | D
+Ulrich, Mason | Final Project | submitted | late | A
+Valencia, Nora | Homework 1 | submitted | on time | D
+Valencia, Nora | Homework 2 | submitted | on time | A
+Valencia, Nora | Project 1 | submitted | on time | B
+Valencia, Nora | Quiz 1 | not submitted | * | *
+Valencia, Nora | Final Project | submitted | on time | A
+Ingram, Elise | Homework 1 | submitted | late | D
+Ingram, Elise | Homework 2 | submitted | late | B
+Ingram, Elise | Project 1 | submitted | late | D
+Ingram, Elise | Quiz 1 | not submitted | * | *
+Ingram, Elise | Final Project | submitted | on time | D

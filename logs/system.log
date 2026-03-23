@@ -1,0 +1,400 @@
+2026-03-01 08:00:00 INFO cron: scheduled job executed successfully
+2026-03-01 08:01:27 WARNING firewalld: repeated connection attempts flagged
+2026-03-01 08:02:37 INFO kernel: CPU usage normal
+2026-03-01 08:02:59 INFO systemd: routine service check completed
+2026-03-01 08:04:20 INFO systemd: routine service check completed
+2026-03-01 08:05:25 INFO kernel: CPU usage normal
+2026-03-01 08:06:54 CRITICAL CRITICAL kernel: system overload due to authentication storm
+2026-03-01 08:07:25 CRITICAL CRITICAL securityd: brute-force pattern identified; protective measures engaged
+2026-03-01 08:07:49 WARNING kernel: unusual spike in network activity detected
+2026-03-01 08:08:42 WARNING firewalld: repeated connection attempts flagged
+2026-03-01 08:09:12 INFO networkd: interface eth0 link stable
+2026-03-01 08:10:04 INFO kernel: CPU usage normal
+2026-03-01 08:10:42 WARNING systemd: service response slower than expected
+2026-03-01 08:11:05 INFO networkd: interface eth0 link stable
+2026-03-01 08:11:39 INFO kernel: CPU usage normal
+2026-03-01 08:12:14 INFO systemd: routine service check completed
+2026-03-01 08:12:59 WARNING systemd: service response slower than expected
+2026-03-01 08:13:31 WARNING systemd: service response slower than expected
+2026-03-01 08:14:44 ERROR kernel: packet flood detected on eth0
+2026-03-01 08:15:08 WARNING authd: elevated authentication failures observed
+2026-03-01 08:16:00 INFO cron: scheduled job executed successfully
+2026-03-01 08:16:25 INFO networkd: interface eth0 link stable
+2026-03-01 08:17:07 INFO cron: scheduled job executed successfully
+2026-03-01 08:18:28 WARNING authd: elevated authentication failures observed
+2026-03-01 08:19:31 INFO cron: scheduled job executed successfully
+2026-03-01 08:19:55 INFO kernel: CPU usage normal
+2026-03-01 08:21:14 INFO cron: scheduled job executed successfully
+2026-03-01 08:22:00 CRITICAL CRITICAL securityd: brute-force pattern identified; protective measures engaged
+2026-03-01 08:23:20 INFO networkd: interface eth0 link stable
+2026-03-01 08:24:07 INFO networkd: interface eth0 link stable
+2026-03-01 08:25:06 INFO networkd: interface eth0 link stable
+2026-03-01 08:26:00 ERROR firewalld: IP temporarily added to blacklist
+2026-03-01 08:26:46 INFO cron: scheduled job executed successfully
+2026-03-01 08:27:08 WARNING firewalld: repeated connection attempts flagged
+2026-03-01 08:27:47 INFO kernel: CPU usage normal
+2026-03-01 08:28:52 ERROR sshd: failed publickey authentication
+2026-03-01 08:29:29 INFO kernel: CPU usage normal
+2026-03-01 08:30:12 WARNING firewalld: repeated connection attempts flagged
+2026-03-01 08:31:07 ERROR auditd: unauthorized access attempt blocked
+2026-03-01 08:31:41 INFO kernel: CPU usage normal
+2026-03-01 08:32:50 INFO networkd: interface eth0 link stable
+2026-03-01 08:34:04 INFO kernel: CPU usage normal
+2026-03-01 08:34:36 INFO networkd: interface eth0 link stable
+2026-03-01 08:35:11 INFO cron: scheduled job executed successfully
+2026-03-01 08:35:38 WARNING authd: elevated authentication failures observed
+2026-03-01 08:36:22 INFO systemd: routine service check completed
+2026-03-01 08:36:43 WARNING authd: elevated authentication failures observed
+2026-03-01 08:37:50 INFO systemd: routine service check completed
+2026-03-01 08:38:49 INFO cron: scheduled job executed successfully
+2026-03-01 08:39:30 WARNING kernel: unusual spike in network activity detected
+2026-03-01 08:40:36 INFO systemd: routine service check completed
+2026-03-01 08:41:22 ERROR auditd: unauthorized access attempt blocked
+2026-03-01 08:42:48 INFO cron: scheduled job executed successfully
+2026-03-01 08:44:11 INFO systemd: routine service check completed
+2026-03-01 08:45:26 WARNING kernel: unusual spike in network activity detected
+2026-03-01 08:46:05 WARNING authd: elevated authentication failures observed
+2026-03-01 08:47:17 INFO systemd: routine service check completed
+2026-03-01 08:48:12 INFO systemd: routine service check completed
+2026-03-01 08:48:55 INFO cron: scheduled job executed successfully
+2026-03-01 08:50:24 INFO networkd: interface eth0 link stable
+2026-03-01 08:51:26 ERROR kernel: packet flood detected on eth0
+2026-03-01 16:52:19 INFO kernel: CPU usage normal
+2026-03-01 16:52:54 INFO cron: scheduled job executed successfully
+2026-03-01 16:53:48 ERROR firewalld: IP temporarily added to blacklist
+2026-03-01 16:54:11 ERROR sshd: failed publickey authentication
+2026-03-01 16:54:52 WARNING firewalld: repeated connection attempts flagged
+2026-03-01 16:56:05 INFO kernel: CPU usage normal
+2026-03-01 16:57:25 WARNING firewalld: repeated connection attempts flagged
+2026-03-01 16:57:53 INFO networkd: interface eth0 link stable
+2026-03-01 16:58:59 INFO networkd: interface eth0 link stable
+2026-03-01 16:59:44 ERROR sshd: failed publickey authentication
+2026-03-01 17:01:11 INFO cron: scheduled job executed successfully
+2026-03-01 17:02:05 WARNING firewalld: repeated connection attempts flagged
+2026-03-01 17:02:44 WARNING firewalld: repeated connection attempts flagged
+2026-03-01 17:03:10 INFO kernel: CPU usage normal
+2026-03-01 17:04:31 INFO systemd: routine service check completed
+2026-03-01 17:05:55 INFO cron: scheduled job executed successfully
+2026-03-01 17:06:18 INFO cron: scheduled job executed successfully
+2026-03-01 17:07:03 ERROR sshd: failed publickey authentication
+2026-03-01 17:08:17 ERROR kernel: packet flood detected on eth0
+2026-03-01 17:09:42 CRITICAL CRITICAL kernel: system overload due to authentication storm
+2026-03-01 17:10:04 CRITICAL CRITICAL kernel: system overload due to authentication storm
+2026-03-01 17:10:59 INFO kernel: CPU usage normal
+2026-03-01 17:11:53 INFO kernel: CPU usage normal
+2026-03-01 17:12:44 INFO networkd: interface eth0 link stable
+2026-03-01 17:13:29 WARNING firewalld: repeated connection attempts flagged
+2026-03-01 17:14:07 INFO kernel: CPU usage normal
+2026-03-01 17:14:48 CRITICAL CRITICAL kernel: system overload due to authentication storm
+2026-03-01 17:16:16 WARNING authd: elevated authentication failures observed
+2026-03-01 17:17:40 INFO kernel: CPU usage normal
+2026-03-01 17:18:06 ERROR kernel: packet flood detected on eth0
+2026-03-01 17:19:04 ERROR firewalld: IP temporarily added to blacklist
+2026-03-01 17:20:28 INFO kernel: CPU usage normal
+2026-03-01 17:21:51 INFO cron: scheduled job executed successfully
+2026-03-01 17:23:08 INFO kernel: CPU usage normal
+2026-03-01 17:23:51 ERROR sshd: failed publickey authentication
+2026-03-01 17:25:15 INFO networkd: interface eth0 link stable
+2026-03-01 17:26:21 INFO cron: scheduled job executed successfully
+2026-03-01 17:27:39 WARNING systemd: service response slower than expected
+2026-03-01 17:28:41 ERROR auditd: unauthorized access attempt blocked
+2026-03-01 17:30:10 INFO systemd: routine service check completed
+2026-03-01 17:31:11 INFO cron: scheduled job executed successfully
+2026-03-01 17:31:57 INFO systemd: routine service check completed
+2026-03-01 17:33:07 WARNING kernel: unusual spike in network activity detected
+2026-03-01 17:34:13 ERROR kernel: packet flood detected on eth0
+2026-03-01 17:34:53 INFO systemd: routine service check completed
+2026-03-01 17:35:31 ERROR firewalld: IP temporarily added to blacklist
+2026-03-01 17:36:57 ERROR firewalld: IP temporarily added to blacklist
+2026-03-01 17:37:48 ERROR sshd: failed publickey authentication
+2026-03-01 17:38:49 INFO kernel: CPU usage normal
+2026-03-01 17:40:14 INFO kernel: CPU usage normal
+2026-03-01 17:41:01 CRITICAL CRITICAL securityd: brute-force pattern identified; protective measures engaged
+2026-03-01 17:42:01 INFO systemd: routine service check completed
+2026-03-01 17:42:54 INFO systemd: routine service check completed
+2026-03-01 17:44:02 CRITICAL CRITICAL securityd: brute-force pattern identified; protective measures engaged
+2026-03-01 17:44:51 INFO cron: scheduled job executed successfully
+2026-03-01 17:45:13 INFO systemd: routine service check completed
+2026-03-01 17:46:14 INFO kernel: CPU usage normal
+2026-03-01 17:47:19 INFO kernel: CPU usage normal
+2026-03-01 17:48:25 INFO kernel: CPU usage normal
+2026-03-01 17:49:45 INFO systemd: routine service check completed
+2026-03-02 01:50:32 ERROR kernel: packet flood detected on eth0
+2026-03-02 01:51:25 INFO systemd: routine service check completed
+2026-03-02 01:52:31 INFO kernel: CPU usage normal
+2026-03-02 01:53:55 INFO cron: scheduled job executed successfully
+2026-03-02 01:54:48 INFO networkd: interface eth0 link stable
+2026-03-02 01:55:14 INFO systemd: routine service check completed
+2026-03-02 01:55:44 INFO systemd: routine service check completed
+2026-03-02 01:56:19 ERROR firewalld: IP temporarily added to blacklist
+2026-03-02 01:57:45 INFO networkd: interface eth0 link stable
+2026-03-02 01:59:11 INFO cron: scheduled job executed successfully
+2026-03-02 02:00:20 ERROR kernel: packet flood detected on eth0
+2026-03-02 02:01:28 INFO networkd: interface eth0 link stable
+2026-03-02 02:02:58 INFO kernel: CPU usage normal
+2026-03-02 02:04:04 WARNING kernel: unusual spike in network activity detected
+2026-03-02 02:04:52 INFO networkd: interface eth0 link stable
+2026-03-02 02:05:29 INFO networkd: interface eth0 link stable
+2026-03-02 02:06:59 INFO systemd: routine service check completed
+2026-03-02 02:08:15 INFO kernel: CPU usage normal
+2026-03-02 02:08:40 INFO systemd: routine service check completed
+2026-03-02 02:09:01 INFO networkd: interface eth0 link stable
+2026-03-02 02:10:21 INFO networkd: interface eth0 link stable
+2026-03-02 02:11:27 WARNING firewalld: repeated connection attempts flagged
+2026-03-02 02:12:07 INFO systemd: routine service check completed
+2026-03-02 02:13:04 ERROR firewalld: IP temporarily added to blacklist
+2026-03-02 02:13:42 INFO cron: scheduled job executed successfully
+2026-03-02 02:14:48 INFO kernel: CPU usage normal
+2026-03-02 02:15:27 INFO kernel: CPU usage normal
+2026-03-02 02:16:19 WARNING authd: elevated authentication failures observed
+2026-03-02 02:17:49 ERROR kernel: packet flood detected on eth0
+2026-03-02 02:18:09 INFO networkd: interface eth0 link stable
+2026-03-02 02:19:32 INFO kernel: CPU usage normal
+2026-03-02 02:20:40 INFO cron: scheduled job executed successfully
+2026-03-02 02:21:56 INFO networkd: interface eth0 link stable
+2026-03-02 02:22:39 INFO kernel: CPU usage normal
+2026-03-02 02:23:40 INFO kernel: CPU usage normal
+2026-03-02 02:24:24 INFO systemd: routine service check completed
+2026-03-02 02:24:50 INFO systemd: routine service check completed
+2026-03-02 02:25:48 INFO cron: scheduled job executed successfully
+2026-03-02 02:27:14 INFO cron: scheduled job executed successfully
+2026-03-02 02:27:44 INFO networkd: interface eth0 link stable
+2026-03-02 02:28:39 WARNING kernel: unusual spike in network activity detected
+2026-03-02 02:30:06 INFO cron: scheduled job executed successfully
+2026-03-02 02:31:12 INFO cron: scheduled job executed successfully
+2026-03-02 02:32:09 INFO networkd: interface eth0 link stable
+2026-03-02 02:32:45 WARNING kernel: unusual spike in network activity detected
+2026-03-02 02:34:00 ERROR firewalld: IP temporarily added to blacklist
+2026-03-02 02:34:41 INFO systemd: routine service check completed
+2026-03-02 02:35:06 INFO systemd: routine service check completed
+2026-03-02 02:36:30 INFO cron: scheduled job executed successfully
+2026-03-02 02:37:42 WARNING systemd: service response slower than expected
+2026-03-02 02:38:34 INFO cron: scheduled job executed successfully
+2026-03-02 02:38:57 INFO cron: scheduled job executed successfully
+2026-03-02 02:39:50 WARNING kernel: unusual spike in network activity detected
+2026-03-02 02:40:20 INFO kernel: CPU usage normal
+2026-03-02 02:41:15 CRITICAL CRITICAL securityd: brute-force pattern identified; protective measures engaged
+2026-03-02 02:42:15 INFO kernel: CPU usage normal
+2026-03-02 02:42:55 INFO networkd: interface eth0 link stable
+2026-03-02 02:43:47 ERROR firewalld: IP temporarily added to blacklist
+2026-03-02 02:45:05 ERROR auditd: unauthorized access attempt blocked
+2026-03-02 02:46:20 ERROR kernel: packet flood detected on eth0
+2026-03-02 10:46:53 ERROR auditd: unauthorized access attempt blocked
+2026-03-02 10:48:02 WARNING firewalld: repeated connection attempts flagged
+2026-03-02 10:48:24 WARNING kernel: unusual spike in network activity detected
+2026-03-02 10:49:01 CRITICAL CRITICAL kernel: system overload due to authentication storm
+2026-03-02 10:50:21 ERROR kernel: packet flood detected on eth0
+2026-03-02 10:50:41 ERROR sshd: failed publickey authentication
+2026-03-02 10:51:07 ERROR auditd: unauthorized access attempt blocked
+2026-03-02 10:52:30 CRITICAL CRITICAL securityd: brute-force pattern identified; protective measures engaged
+2026-03-02 10:53:52 ERROR sshd: failed publickey authentication
+2026-03-02 10:55:13 ERROR sshd: failed publickey authentication
+2026-03-02 10:56:05 ERROR firewalld: IP temporarily added to blacklist
+2026-03-02 10:56:33 WARNING systemd: service response slower than expected
+2026-03-02 10:56:53 WARNING systemd: service response slower than expected
+2026-03-02 10:58:09 CRITICAL CRITICAL kernel: system overload due to authentication storm
+2026-03-02 10:59:21 ERROR auditd: unauthorized access attempt blocked
+2026-03-02 11:00:51 WARNING authd: elevated authentication failures observed
+2026-03-02 11:02:15 CRITICAL CRITICAL kernel: system overload due to authentication storm
+2026-03-02 11:03:13 ERROR auditd: unauthorized access attempt blocked
+2026-03-02 11:04:17 ERROR auditd: unauthorized access attempt blocked
+2026-03-02 11:05:14 ERROR firewalld: IP temporarily added to blacklist
+2026-03-02 11:05:37 ERROR auditd: unauthorized access attempt blocked
+2026-03-02 11:06:33 ERROR kernel: packet flood detected on eth0
+2026-03-02 11:06:54 CRITICAL CRITICAL securityd: brute-force pattern identified; protective measures engaged
+2026-03-02 11:07:22 ERROR firewalld: IP temporarily added to blacklist
+2026-03-02 11:08:21 WARNING firewalld: repeated connection attempts flagged
+2026-03-02 11:08:42 WARNING firewalld: repeated connection attempts flagged
+2026-03-02 11:09:02 WARNING authd: elevated authentication failures observed
+2026-03-02 11:09:46 CRITICAL CRITICAL securityd: brute-force pattern identified; protective measures engaged
+2026-03-02 11:10:47 CRITICAL CRITICAL securityd: brute-force pattern identified; protective measures engaged
+2026-03-02 11:11:33 ERROR firewalld: IP temporarily added to blacklist
+2026-03-02 11:12:54 ERROR sshd: failed publickey authentication
+2026-03-02 11:13:18 ERROR kernel: packet flood detected on eth0
+2026-03-02 11:14:06 ERROR auditd: unauthorized access attempt blocked
+2026-03-02 11:15:14 CRITICAL CRITICAL securityd: brute-force pattern identified; protective measures engaged
+2026-03-02 11:16:01 CRITICAL CRITICAL securityd: brute-force pattern identified; protective measures engaged
+2026-03-02 11:17:17 ERROR kernel: packet flood detected on eth0
+2026-03-02 11:18:33 ERROR auditd: unauthorized access attempt blocked
+2026-03-02 11:19:32 WARNING authd: elevated authentication failures observed
+2026-03-02 11:20:25 WARNING systemd: service response slower than expected
+2026-03-02 11:21:12 CRITICAL CRITICAL kernel: system overload due to authentication storm
+2026-03-02 11:22:22 WARNING firewalld: repeated connection attempts flagged
+2026-03-02 11:23:32 WARNING authd: elevated authentication failures observed
+2026-03-02 11:24:28 CRITICAL CRITICAL securityd: brute-force pattern identified; protective measures engaged
+2026-03-02 11:25:19 WARNING authd: elevated authentication failures observed
+2026-03-02 11:26:26 ERROR sshd: failed publickey authentication
+2026-03-02 11:27:43 ERROR firewalld: IP temporarily added to blacklist
+2026-03-02 11:28:58 ERROR firewalld: IP temporarily added to blacklist
+2026-03-02 11:29:22 WARNING systemd: service response slower than expected
+2026-03-02 11:29:58 WARNING authd: elevated authentication failures observed
+2026-03-02 11:30:26 ERROR auditd: unauthorized access attempt blocked
+2026-03-02 11:31:37 CRITICAL CRITICAL securityd: brute-force pattern identified; protective measures engaged
+2026-03-02 11:32:04 ERROR firewalld: IP temporarily added to blacklist
+2026-03-02 11:32:34 ERROR kernel: packet flood detected on eth0
+2026-03-02 11:33:44 CRITICAL CRITICAL kernel: system overload due to authentication storm
+2026-03-02 11:35:09 ERROR sshd: failed publickey authentication
+2026-03-02 11:36:38 ERROR auditd: unauthorized access attempt blocked
+2026-03-02 11:37:51 ERROR firewalld: IP temporarily added to blacklist
+2026-03-02 11:38:59 CRITICAL CRITICAL securityd: brute-force pattern identified; protective measures engaged
+2026-03-02 11:40:06 WARNING firewalld: repeated connection attempts flagged
+2026-03-02 11:40:39 WARNING firewalld: repeated connection attempts flagged
+2026-03-02 19:41:58 ERROR firewalld: IP temporarily added to blacklist
+2026-03-02 19:42:18 WARNING systemd: service response slower than expected
+2026-03-02 19:43:18 ERROR kernel: packet flood detected on eth0
+2026-03-02 19:44:10 ERROR sshd: failed publickey authentication
+2026-03-02 19:44:43 ERROR sshd: failed publickey authentication
+2026-03-02 19:45:21 ERROR auditd: unauthorized access attempt blocked
+2026-03-02 19:46:04 CRITICAL CRITICAL kernel: system overload due to authentication storm
+2026-03-02 19:46:56 CRITICAL CRITICAL securityd: brute-force pattern identified; protective measures engaged
+2026-03-02 19:47:28 ERROR kernel: packet flood detected on eth0
+2026-03-02 19:48:30 CRITICAL CRITICAL securityd: brute-force pattern identified; protective measures engaged
+2026-03-02 19:48:57 ERROR firewalld: IP temporarily added to blacklist
+2026-03-02 19:49:18 WARNING kernel: unusual spike in network activity detected
+2026-03-02 19:50:42 CRITICAL CRITICAL kernel: system overload due to authentication storm
+2026-03-02 19:51:28 ERROR sshd: failed publickey authentication
+2026-03-02 19:52:20 CRITICAL CRITICAL securityd: brute-force pattern identified; protective measures engaged
+2026-03-02 19:53:13 ERROR auditd: unauthorized access attempt blocked
+2026-03-02 19:54:43 ERROR auditd: unauthorized access attempt blocked
+2026-03-02 19:55:45 ERROR kernel: packet flood detected on eth0
+2026-03-02 19:56:46 ERROR sshd: failed publickey authentication
+2026-03-02 19:57:42 ERROR firewalld: IP temporarily added to blacklist
+2026-03-02 19:58:22 INFO networkd: interface eth0 link stable
+2026-03-02 19:59:14 INFO cron: scheduled job executed successfully
+2026-03-02 20:00:21 INFO cron: scheduled job executed successfully
+2026-03-02 20:01:15 INFO cron: scheduled job executed successfully
+2026-03-02 20:02:31 INFO kernel: CPU usage normal
+2026-03-02 20:03:20 INFO cron: scheduled job executed successfully
+2026-03-02 20:03:59 INFO systemd: routine service check completed
+2026-03-02 20:04:33 INFO cron: scheduled job executed successfully
+2026-03-02 20:05:52 ERROR firewalld: IP temporarily added to blacklist
+2026-03-02 20:07:12 INFO kernel: CPU usage normal
+2026-03-02 20:08:35 INFO networkd: interface eth0 link stable
+2026-03-02 20:09:41 CRITICAL CRITICAL kernel: system overload due to authentication storm
+2026-03-02 20:10:14 ERROR sshd: failed publickey authentication
+2026-03-02 20:11:16 WARNING firewalld: repeated connection attempts flagged
+2026-03-02 20:12:29 CRITICAL CRITICAL securityd: brute-force pattern identified; protective measures engaged
+2026-03-02 20:13:06 WARNING authd: elevated authentication failures observed
+2026-03-02 20:13:34 INFO networkd: interface eth0 link stable
+2026-03-02 20:15:03 INFO networkd: interface eth0 link stable
+2026-03-02 20:16:22 INFO networkd: interface eth0 link stable
+2026-03-02 20:17:02 INFO cron: scheduled job executed successfully
+2026-03-02 20:17:35 INFO systemd: routine service check completed
+2026-03-02 20:18:11 INFO kernel: CPU usage normal
+2026-03-02 20:18:58 INFO cron: scheduled job executed successfully
+2026-03-02 20:20:19 INFO networkd: interface eth0 link stable
+2026-03-02 20:20:42 CRITICAL CRITICAL kernel: system overload due to authentication storm
+2026-03-02 20:22:03 INFO systemd: routine service check completed
+2026-03-02 20:23:25 CRITICAL CRITICAL kernel: system overload due to authentication storm
+2026-03-02 20:24:43 INFO cron: scheduled job executed successfully
+2026-03-02 20:25:05 WARNING kernel: unusual spike in network activity detected
+2026-03-02 20:26:28 WARNING kernel: unusual spike in network activity detected
+2026-03-02 20:27:22 INFO cron: scheduled job executed successfully
+2026-03-02 20:27:58 INFO systemd: routine service check completed
+2026-03-02 20:29:26 INFO networkd: interface eth0 link stable
+2026-03-02 20:30:49 INFO cron: scheduled job executed successfully
+2026-03-02 20:32:05 INFO cron: scheduled job executed successfully
+2026-03-02 20:33:34 INFO kernel: CPU usage normal
+2026-03-02 20:34:16 INFO networkd: interface eth0 link stable
+2026-03-02 20:35:14 CRITICAL CRITICAL kernel: system overload due to authentication storm
+2026-03-02 20:35:49 ERROR firewalld: IP temporarily added to blacklist
+2026-03-02 20:36:31 ERROR kernel: packet flood detected on eth0
+2026-03-03 04:37:09 INFO networkd: interface eth0 link stable
+2026-03-03 04:37:57 INFO cron: scheduled job executed successfully
+2026-03-03 04:39:16 WARNING systemd: service response slower than expected
+2026-03-03 04:39:55 WARNING firewalld: repeated connection attempts flagged
+2026-03-03 04:40:25 WARNING authd: elevated authentication failures observed
+2026-03-03 04:40:57 INFO kernel: CPU usage normal
+2026-03-03 04:41:57 INFO cron: scheduled job executed successfully
+2026-03-03 04:43:10 INFO systemd: routine service check completed
+2026-03-03 04:44:31 WARNING firewalld: repeated connection attempts flagged
+2026-03-03 04:45:28 INFO cron: scheduled job executed successfully
+2026-03-03 04:46:47 INFO kernel: CPU usage normal
+2026-03-03 04:48:17 INFO systemd: routine service check completed
+2026-03-03 04:49:46 INFO systemd: routine service check completed
+2026-03-03 04:50:50 ERROR firewalld: IP temporarily added to blacklist
+2026-03-03 04:51:36 WARNING systemd: service response slower than expected
+2026-03-03 04:52:45 CRITICAL CRITICAL kernel: system overload due to authentication storm
+2026-03-03 04:53:49 ERROR kernel: packet flood detected on eth0
+2026-03-03 04:54:49 INFO kernel: CPU usage normal
+2026-03-03 04:55:43 INFO kernel: CPU usage normal
+2026-03-03 04:56:54 ERROR sshd: failed publickey authentication
+2026-03-03 04:58:05 INFO systemd: routine service check completed
+2026-03-03 04:58:31 INFO systemd: routine service check completed
+2026-03-03 04:59:48 INFO cron: scheduled job executed successfully
+2026-03-03 05:01:17 WARNING firewalld: repeated connection attempts flagged
+2026-03-03 05:02:06 INFO kernel: CPU usage normal
+2026-03-03 05:03:23 INFO kernel: CPU usage normal
+2026-03-03 05:04:53 ERROR firewalld: IP temporarily added to blacklist
+2026-03-03 05:05:18 INFO kernel: CPU usage normal
+2026-03-03 05:06:26 INFO networkd: interface eth0 link stable
+2026-03-03 05:07:20 ERROR auditd: unauthorized access attempt blocked
+2026-03-03 05:07:43 INFO kernel: CPU usage normal
+2026-03-03 05:08:32 WARNING kernel: unusual spike in network activity detected
+2026-03-03 05:09:09 INFO networkd: interface eth0 link stable
+2026-03-03 05:10:04 INFO cron: scheduled job executed successfully
+2026-03-03 05:10:27 ERROR kernel: packet flood detected on eth0
+2026-03-03 05:11:29 INFO cron: scheduled job executed successfully
+2026-03-03 05:12:43 INFO kernel: CPU usage normal
+2026-03-03 05:13:17 INFO networkd: interface eth0 link stable
+2026-03-03 05:14:39 INFO networkd: interface eth0 link stable
+2026-03-03 05:15:19 CRITICAL CRITICAL kernel: system overload due to authentication storm
+2026-03-03 13:16:42 WARNING firewalld: repeated connection attempts flagged
+2026-03-03 13:18:12 INFO cron: scheduled job executed successfully
+2026-03-03 13:18:52 CRITICAL CRITICAL kernel: system overload due to authentication storm
+2026-03-03 13:20:09 INFO networkd: interface eth0 link stable
+2026-03-03 13:20:55 INFO kernel: CPU usage normal
+2026-03-03 13:21:15 WARNING firewalld: repeated connection attempts flagged
+2026-03-03 13:21:35 INFO cron: scheduled job executed successfully
+2026-03-03 13:22:28 INFO cron: scheduled job executed successfully
+2026-03-03 13:23:06 WARNING firewalld: repeated connection attempts flagged
+2026-03-03 13:23:42 WARNING systemd: service response slower than expected
+2026-03-03 13:25:00 INFO networkd: interface eth0 link stable
+2026-03-03 13:25:40 WARNING kernel: unusual spike in network activity detected
+2026-03-03 13:26:54 INFO networkd: interface eth0 link stable
+2026-03-03 13:27:31 INFO kernel: CPU usage normal
+2026-03-03 13:28:32 INFO systemd: routine service check completed
+2026-03-03 13:29:25 INFO kernel: CPU usage normal
+2026-03-03 13:30:36 INFO cron: scheduled job executed successfully
+2026-03-03 13:31:16 CRITICAL CRITICAL kernel: system overload due to authentication storm
+2026-03-03 13:31:52 INFO networkd: interface eth0 link stable
+2026-03-03 13:33:17 ERROR sshd: failed publickey authentication
+2026-03-03 13:34:00 INFO cron: scheduled job executed successfully
+2026-03-03 13:35:20 ERROR sshd: failed publickey authentication
+2026-03-03 13:36:19 INFO cron: scheduled job executed successfully
+2026-03-03 13:37:01 INFO kernel: CPU usage normal
+2026-03-03 13:37:55 INFO networkd: interface eth0 link stable
+2026-03-03 13:38:21 INFO systemd: routine service check completed
+2026-03-03 13:39:16 INFO networkd: interface eth0 link stable
+2026-03-03 13:40:11 INFO kernel: CPU usage normal
+2026-03-03 13:40:47 INFO systemd: routine service check completed
+2026-03-03 13:41:51 WARNING firewalld: repeated connection attempts flagged
+2026-03-03 13:42:42 INFO networkd: interface eth0 link stable
+2026-03-03 13:43:18 INFO networkd: interface eth0 link stable
+2026-03-03 13:44:44 INFO kernel: CPU usage normal
+2026-03-03 13:46:12 INFO networkd: interface eth0 link stable
+2026-03-03 13:46:37 INFO networkd: interface eth0 link stable
+2026-03-03 13:47:05 WARNING authd: elevated authentication failures observed
+2026-03-03 13:48:00 INFO cron: scheduled job executed successfully
+2026-03-03 13:49:17 INFO systemd: routine service check completed
+2026-03-03 13:50:10 INFO systemd: routine service check completed
+2026-03-03 13:50:41 INFO kernel: CPU usage normal
+2026-03-03 13:52:00 INFO cron: scheduled job executed successfully
+2026-03-03 13:52:41 INFO cron: scheduled job executed successfully
+2026-03-03 13:53:43 INFO cron: scheduled job executed successfully
+2026-03-03 13:55:06 ERROR auditd: unauthorized access attempt blocked
+2026-03-03 13:55:46 WARNING kernel: unusual spike in network activity detected
+2026-03-03 13:57:12 INFO systemd: routine service check completed
+2026-03-03 13:58:37 ERROR kernel: packet flood detected on eth0
+2026-03-03 13:59:46 INFO kernel: CPU usage normal
+2026-03-03 14:00:25 INFO kernel: CPU usage normal
+2026-03-03 14:01:10 WARNING systemd: service response slower than expected
+2026-03-03 14:02:34 INFO kernel: CPU usage normal
+2026-03-03 14:04:01 INFO cron: scheduled job executed successfully
+2026-03-03 14:04:22 INFO kernel: CPU usage normal
+2026-03-03 14:05:10 INFO systemd: routine service check completed
+2026-03-03 14:06:20 WARNING systemd: service response slower than expected
+2026-03-03 14:06:46 INFO systemd: routine service check completed
+2026-03-03 14:07:36 INFO cron: scheduled job executed successfully
+2026-03-03 14:08:10 WARNING systemd: service response slower than expected
+2026-03-03 14:08:42 INFO cron: scheduled job executed successfully

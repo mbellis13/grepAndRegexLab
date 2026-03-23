@@ -1,0 +1,32 @@
+grep (short for global regular expression print) is a
+command-line tool used to search for patterns in text.
+It scans files line by line and prints any lines that 
+match a given pattern, making it extremely useful for 
+tasks like analyzing log files, filtering data, or 
+finding specific information quickly. At its core, 
+grep takes a pattern and one or more files as input, 
+then checks each line to see if it matches. Various 
+options modify its behavior: for example, -i ignores 
+case, -n shows line numbers, -c counts matches, -v 
+inverts the match (showing non-matching lines), and 
+-r searches recursively through directories. Because 
+it is fast and composable, grep is often used 
+together with other command-line tools and pipes to 
+build powerful text-processing workflows.
+
+Regular expressions (regex) are the pattern language 
+that tools like grep use to define what to search 
+for. Instead of searching for exact words only, 
+regex allows you to describe complex patterns using 
+special symbols. For example, . matches any 
+character, * means “zero or more of the previous 
+element,” and ^ and $ anchor matches to the beginning 
+or end of a line. Character classes like [a-z] match 
+ranges, and constructs like \\d (in some regex flavors) 
+match digits. When grep runs with a regex pattern, it 
+evaluates each line of text against that pattern to 
+determine if there is a match. This makes regex 
+incredibly powerful for tasks like validating formats, 
+extracting structured information, or searching for 
+variations of a term, though it can take practice to 
+read and write complex expressions effectively.
